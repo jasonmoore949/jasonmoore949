@@ -1,5 +1,5 @@
-👋 Hi, I’m @jasonmoore949
-AI / Mobile / Web Development Researcher at Northumbria University Newcastle
+👋 Hi, I’m @jasonmoore949  
+AI / Mobile / Web Development Researcher at Northumbria University Newcastle  
 jasonmoore949@gmail.com
 
 <!---
